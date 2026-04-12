@@ -16,7 +16,7 @@ import expressIcon from './assets/express.png';
 import mysqlIcon from './assets/mysql.png';
 import mongodbIcon from './assets/mongodb.png';
 import javaIcon from './assets/java.png';
-import pythonIcon from './assets/Phython.png';
+import pythonIcon from './assets/python.png';
 import gitIcon from './assets/git.png';
 import vscodeIcon from './assets/vscode.png';
 import postmanIcon from './assets/postman.svg';
@@ -168,7 +168,7 @@ const skillsData = {
   'Languages': [
     { name: 'JavaScript', img: javascriptIcon },
     { name: 'Java', img: javaIcon },
-    { name: 'Phython', img: pythonIcon },
+    { name: 'Python', img: pythonIcon },
     { name: 'TypeScript', img: typescript },
   ],
   'Other': [
