@@ -5,7 +5,7 @@ This project showcases my skills, projects, and experience as a Software Enginee
 
 ## 🔗 Live Demo
 
-_Add your deployed link (Netlify / Vercel)_
+_Add your deployed link_
 
-https://goshitha-premachandra.netlify.app/
+https://goshitha-premachandra.vercel.app/
 ---
